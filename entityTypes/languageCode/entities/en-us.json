@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "en-US",
+    "synonyms": [ "english", "English", "Inglese" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "it-IT",
+    "synonyms": [ "italian", "Italian", "italiano" ],
+    "languageCode": "en-us"
+  } ]
+}

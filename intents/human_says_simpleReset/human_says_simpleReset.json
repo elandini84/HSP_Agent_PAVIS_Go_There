@@ -1,0 +1,13 @@
+{
+  "name": "33791e3c-569c-46f8-83c5-5d0ca384b789",
+  "displayName": "human_says_simpleReset",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 2
+}

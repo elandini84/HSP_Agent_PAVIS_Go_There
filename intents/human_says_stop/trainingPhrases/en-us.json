@@ -1,0 +1,30 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Pause",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "ok, stop for a minute",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Stop",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Stop what you are doing"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

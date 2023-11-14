@@ -1,0 +1,16 @@
+{
+  "name": "928de71a-f5b3-4257-bdcd-8f98e92c3da9",
+  "displayName": "system_says_badError",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "me",
+    "synonyms": [ "io", "me", "mi" ],
+    "languageCode": "it"
+  }, {
+    "value": "you",
+    "synonyms": [ "you" ],
+    "languageCode": "it"
+  } ]
+}

@@ -1,0 +1,67 @@
+{
+  "trainingPhrases": [ {
+    "id": "7232ad3f-397e-4537-b6ff-458b0b246169",
+    "parts": [ {
+      "text": "ciao",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "84c9e135-0ed0-461e-8ec0-41331b5123b0",
+    "parts": [ {
+      "text": "ciao ciao",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "a253fac5-af01-4b01-82fa-e45f0dff5fca",
+    "parts": [ {
+      "text": "ciao bello",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "624f1fea-fe27-48fb-94b7-a98162593f23",
+    "parts": [ {
+      "text": "ciao bella",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "8b0d2424-b36a-424f-8c08-0722b1ad589b",
+    "parts": [ {
+      "text": "ciao caro",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "faba1e1f-f7e5-434c-9fc4-550250a99716",
+    "parts": [ {
+      "text": "ciao cara",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "b0c6defb-a40b-4d58-b6e0-57778dba7d86",
+    "parts": [ {
+      "text": "salve",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "id": "86c7e7a1-7b7b-40e6-a287-868e5a75db2c",
+    "parts": [ {
+      "text": "ehi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

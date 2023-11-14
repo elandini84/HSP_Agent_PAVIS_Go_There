@@ -1,0 +1,207 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Vai",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "cucina",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vai",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "camera",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vai",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "salotto",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vai",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "ingresso",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti "
+    }, {
+      "text": "andare",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "cucina",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti "
+    }, {
+      "text": "andare",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "bagno",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti "
+    }, {
+      "text": "andare",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "lavanderia",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti "
+    }, {
+      "text": "andare",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "dispensa",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ho bisogno che tu "
+    }, {
+      "text": "vada",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "salotto",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ho bisogno che tu "
+    }, {
+      "text": "vada",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "ingresso",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Ho bisogno che tu "
+    }, {
+      "text": "vada",
+      "parameterId": "goVal"
+    }, {
+      "text": " in "
+    }, {
+      "text": "dispensa",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Andresti",
+      "parameterId": "goVal"
+    }, {
+      "text": " mica in "
+    }, {
+      "text": "salotto",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Andresti",
+      "parameterId": "goVal"
+    }, {
+      "text": " mica in "
+    }, {
+      "text": "ingresso",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Andresti",
+      "parameterId": "goVal"
+    }, {
+      "text": " mica in "
+    }, {
+      "text": "cucina",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Andresti",
+      "parameterId": "goVal"
+    }, {
+      "text": " mica in "
+    }, {
+      "text": "dispensa",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

@@ -1,0 +1,31 @@
+{
+  "entities": [ {
+    "value": "kitchen",
+    "synonyms": [ "kitchen" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "bedroom",
+    "synonyms": [ "bedroom" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "kidsroom",
+    "synonyms": [ "kidsroom" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "livingroom",
+    "synonyms": [ "livingroom", "living room" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "bathroom",
+    "synonyms": [ "bathroom" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "doorway",
+    "synonyms": [ "doorway", "hall", "entrance" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "study",
+    "synonyms": [ "studio", "study" ],
+    "languageCode": "en-us"
+  } ]
+}

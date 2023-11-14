@@ -1,0 +1,59 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Dov'è l'oggetto che stai ",
+      "auto": true
+    }, {
+      "text": "cercando",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dove stai "
+    }, {
+      "text": "andando",
+      "parameterId": "go_verbsAskedVal"
+    }, {
+      "text": " a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dove devi ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "go_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dove stai "
+    }, {
+      "text": "andando",
+      "parameterId": "go_verbsAskedVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

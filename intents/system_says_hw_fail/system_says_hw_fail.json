@@ -1,0 +1,16 @@
+{
+  "name": "7f902ec6-1cc8-49ba-86d5-b0d6d9c6861a",
+  "displayName": "system_says_hw_fail",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

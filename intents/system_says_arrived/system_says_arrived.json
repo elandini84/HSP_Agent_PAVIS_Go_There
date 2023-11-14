@@ -1,0 +1,16 @@
+{
+  "name": "2e40059e-64fa-4c44-b3d5-ee7792d2fa95",
+  "displayName": "system_says_arrived",
+  "priority": 500000,
+  "labels": [ {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "success",
+    "value": "success"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

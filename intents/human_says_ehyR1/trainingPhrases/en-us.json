@@ -1,0 +1,66 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Hey... R1?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Hey R1!",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Hey, R1!",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Hey R1",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's go",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Let's start",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Sorry R1",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Excuse me R1",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Excuse me",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

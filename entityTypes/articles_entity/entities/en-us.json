@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "definite",
+    "synonyms": [ "the" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "indefinite",
+    "synonyms": [ "a", "an", "some" ],
+    "languageCode": "en-us"
+  } ]
+}

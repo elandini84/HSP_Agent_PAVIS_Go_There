@@ -1,0 +1,13 @@
+{
+  "name": "734e6bb4-79e6-4af3-ac3f-6236f22c997f",
+  "displayName": "system_says_resumed",
+  "priority": 500000,
+  "labels": [ {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

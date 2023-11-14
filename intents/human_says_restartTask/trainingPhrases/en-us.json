@@ -1,0 +1,70 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "ok, ",
+      "auto": true
+    }, {
+      "text": "forget it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "No problem, go back to your spot",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "ok, let's just stop",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Don't ",
+      "auto": true
+    }, {
+      "text": "worry, ",
+      "auto": true
+    }, {
+      "text": " head back",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Restart",
+      "auto": true
+    }, {
+      "text": "from the beginning",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Restart",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Restart ",
+      "auto": true
+    }, {
+      "text": "task",
+      "auto": true
+    }, {
+      "text": " execution",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

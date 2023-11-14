@@ -1,0 +1,20 @@
+{
+  "name": "5a685461-e80f-48f1-838d-4622058a2d46",
+  "displayName": "human_says_goThere",
+  "parameters": [ {
+    "id": "destinationVal",
+    "entityType": "@room_entity"
+  }, {
+    "id": "goVal",
+    "entityType": "@go_verbs_entity"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 30
+}

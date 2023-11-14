@@ -1,0 +1,13 @@
+{
+  "name": "be177101-0122-4b48-ab04-991d307143ae",
+  "displayName": "human_says_resetSystem",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 2
+}

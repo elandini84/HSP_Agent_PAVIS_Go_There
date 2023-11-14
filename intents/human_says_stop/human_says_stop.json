@@ -1,0 +1,13 @@
+{
+  "name": "29208497-73ba-4bbb-8b7d-cdb5d97bb0bb",
+  "displayName": "human_says_stop",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 8
+}

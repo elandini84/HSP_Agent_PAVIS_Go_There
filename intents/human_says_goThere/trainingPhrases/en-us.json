@@ -1,0 +1,217 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Would you "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "pantry",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You wouldn't "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You wouldn't "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "entrance",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You wouldn't "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "living room",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "pantry",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "living room",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "entrance",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "pantry",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "laundry",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "destinationVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to "
+    }, {
+      "text": "entrance",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "living room",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go",
+      "parameterId": "goVal"
+    }, {
+      "text": " to the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "destinationVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

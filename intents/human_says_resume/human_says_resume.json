@@ -1,0 +1,13 @@
+{
+  "name": "7ae10f3d-1c49-46fc-8f13-868029b9de55",
+  "displayName": "human_says_resume",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 16
+}

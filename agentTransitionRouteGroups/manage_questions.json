@@ -1,0 +1,39 @@
+{
+  "name": "c87dc94c-9edc-478a-a5d2-f86c755305cc",
+  "displayName": "manage_questions",
+  "transitionRoutes": [ {
+    "intent": "human_asks_where",
+    "condition": "$session.params.thereVal != \"\" OR $session.params.destinationVal != \"\"",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(say \"I am going to the $session.params.targetLocationVal_orig\")" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(say \"Sto andando in $session.params.targetLocationVal_orig\")" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "bc92297e-3c82-4043-83a1-e8d6e2045f5b"
+  }, {
+    "intent": "human_asks_where",
+    "condition": "$session.params.thereVal = \"\" AND $session.params.destinationVal = \"\"",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(say \"I am not going anywhere\")" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(say \"Non sto andando da nessuna parte\")" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "fc2ffc19-9f37-4149-9167-c99e4212a7c4"
+  } ]
+}

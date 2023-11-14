@@ -1,0 +1,13 @@
+{
+  "name": "976da2bf-cc12-4a43-a30a-c4abacafc5a2",
+  "displayName": "human_says_ehyR1",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 18
+}

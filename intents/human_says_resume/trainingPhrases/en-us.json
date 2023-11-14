@@ -1,0 +1,58 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Resume",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Resume what you where doing",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go on",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Feel free to go on",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "ok, you can resume your task",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Come on, resume your activity"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Go back to what you were doing",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Resume your task",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

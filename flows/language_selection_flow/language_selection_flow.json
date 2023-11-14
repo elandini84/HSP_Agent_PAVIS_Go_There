@@ -1,0 +1,67 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "language_selection_flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+
+    },
+    "name": "9bea532b-0aac-4c3a-935b-8089cc8ef036"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(say \"Rispondo piú volentieri ad un saluto\")", "(say \"Sarebbe buona educazione salutare\")", "(say \"Mi spiace, sono programmata in modo da necessitare un saluto come input iniziale\")" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(say \"I am more willing to respond to a greeting\")", "(say \"It would be good manners to say hello\")", "(say \"I am sorry but I need some form of greeting in order to start the conversation\")" ]
+        },
+        "languageCode": "en"
+      }, {
+        "text": {
+          "text": [ "(say \"I am more willing to respond to a greeting\")", "(say \"It would be good manners to say hello\")", "(say \"I am sorry but I need some form of greeting in order to start the conversation\")" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "name": "0fc2c255-1a23-4888-a8c8-7bcf9d03a195"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(say \"Non credo di aver sentito bene\")", "(say \"Puoi ripetere, per favore?)", "(say \"Deve esserci stato un problema... Non ho sentito nulla\")" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
+        },
+        "languageCode": "en"
+      }, {
+        "text": {
+          "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "name": "535ea72a-0239-48da-90d3-b6c2dd59a70f"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.5,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC",
+    "multiIntentSettings": {
+
+    }
+  },
+  "advancedSettings": {
+    "enabled": true
+  },
+  "agentTransitionRouteGroups": [ "manage_questions", "manage_request", "manage_system", "manage_task" ]
+}

@@ -1,0 +1,31 @@
+{
+  "entities": [ {
+    "value": "kitchen",
+    "synonyms": [ "cucina" ],
+    "languageCode": "it"
+  }, {
+    "value": "bedroom",
+    "synonyms": [ "camera" ],
+    "languageCode": "it"
+  }, {
+    "value": "kidsroom",
+    "synonyms": [ "cameretta" ],
+    "languageCode": "it"
+  }, {
+    "value": "livingroom",
+    "synonyms": [ "sala", "salotto" ],
+    "languageCode": "it"
+  }, {
+    "value": "bathroom",
+    "synonyms": [ "bagno" ],
+    "languageCode": "it"
+  }, {
+    "value": "doorway",
+    "synonyms": [ "ingresso" ],
+    "languageCode": "it"
+  }, {
+    "value": "study",
+    "synonyms": [ "studio" ],
+    "languageCode": "it"
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "search",
+    "synonyms": [ "search", "searching", "check" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "find",
+    "synonyms": [ "find", "finding" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "look for",
+    "synonyms": [ "look for", "looking for" ],
+    "languageCode": "en-us"
+  } ]
+}

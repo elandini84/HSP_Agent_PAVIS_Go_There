@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "my",
+    "synonyms": [ "mia", "mie", "miei", "mio" ],
+    "languageCode": "it"
+  }, {
+    "value": "your",
+    "synonyms": [ "tua", "tue", "tuo", "tuoi" ],
+    "languageCode": "it"
+  } ]
+}

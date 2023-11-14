@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "search",
+    "synonyms": [ "cerca", "cercala", "cercale", "cercali", "cercalo", "cercami", "cercarla", "cercarle", "cercarli", "cercarlo", "cercarmi" ],
+    "languageCode": "it"
+  }, {
+    "value": "find",
+    "synonyms": [ "trova", "trovala", "trovale", "trovali", "trovalo", "trovami", "trovarla", "trovarle", "trovarli", "trovarlo", "trovarmi" ],
+    "languageCode": "it"
+  }, {
+    "value": "look for",
+    "synonyms": [ "guarda", "guardare", "vedere", "vedi" ],
+    "languageCode": "it"
+  } ]
+}

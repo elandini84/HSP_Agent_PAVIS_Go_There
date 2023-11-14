@@ -1,0 +1,95 @@
+{
+  "name": "1cfb3826-5306-4576-959f-3a7fc685754b",
+  "displayName": "manage_task",
+  "transitionRoutes": [ {
+    "intent": "human_says_stop",
+    "triggerFulfillment": {
+
+    },
+    "name": "900b2632-1f60-4f68-a7f3-4300ae205df9"
+  }, {
+    "intent": "human_says_restartTask",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "prepositionval",
+        "value": ""
+      }, {
+        "parameter": "articlesval",
+        "value": ""
+      }, {
+        "parameter": "resetSystem",
+        "value": true
+      }, {
+        "parameter": "thereval",
+        "value": ""
+      }, {
+        "parameter": "goVal",
+        "value": ""
+      }, {
+        "parameter": "destinationval",
+        "value": ""
+      }, {
+        "parameter": "targetlocationval_orig",
+        "value": ""
+      }, {
+        "parameter": "articlesval_orig",
+        "value": ""
+      } ]
+    },
+    "name": "1a92cff0-6d9c-4fc7-8436-4ed5eac78391"
+  }, {
+    "intent": "human_says_simpleReset",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "language",
+        "value": ""
+      }, {
+        "parameter": "find_verbsval",
+        "value": ""
+      }, {
+        "parameter": "prepositionval",
+        "value": ""
+      }, {
+        "parameter": "articlesval",
+        "value": ""
+      }, {
+        "parameter": "goBack",
+        "value": false
+      }, {
+        "parameter": "resetSystem",
+        "value": true
+      }, {
+        "parameter": "thereval",
+        "value": ""
+      }, {
+        "parameter": "searchableval",
+        "value": ""
+      }, {
+        "parameter": "goVal",
+        "value": ""
+      }, {
+        "parameter": "searchableval_orig",
+        "value": ""
+      }, {
+        "parameter": "destinationval",
+        "value": ""
+      }, {
+        "parameter": "targetlocationval_orig",
+        "value": ""
+      }, {
+        "parameter": "searchableval_orig",
+        "value": ""
+      }, {
+        "parameter": "articlesval_orig",
+        "value": ""
+      } ]
+    },
+    "name": "99859b19-a20f-41a6-85e4-0ec26bf08e16"
+  }, {
+    "intent": "human_says_resume",
+    "triggerFulfillment": {
+
+    },
+    "name": "e3925fbd-b626-4005-96dc-b8bd70216463"
+  } ]
+}

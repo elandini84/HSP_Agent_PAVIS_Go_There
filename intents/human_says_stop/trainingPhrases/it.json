@@ -1,0 +1,30 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Basta cosí",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "ok, basta",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Fermati",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Fermo"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

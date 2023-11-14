@@ -1,0 +1,115 @@
+{
+  "entities": [ {
+    "value": "cup",
+    "synonyms": [ "tazza", "tazza da caffè", "tazza da latte", "tazzina", "tazzina da caffè" ],
+    "languageCode": "it"
+  }, {
+    "value": "cell phone",
+    "synonyms": [ "cell", "cellulare", "iphone", "samsung", "smartphone", "telefonino", "telefono" ],
+    "languageCode": "it"
+  }, {
+    "value": "bottle",
+    "synonyms": [ "bottiglia", "bottiglia d'acqua", "bottiglietta" ],
+    "languageCode": "it"
+  }, {
+    "value": "person",
+    "synonyms": [ "persona" ],
+    "languageCode": "it"
+  }, {
+    "value": "remote",
+    "synonyms": [ "telecomando", "telecomando della tv" ],
+    "languageCode": "it"
+  }, {
+    "value": "book",
+    "synonyms": [ "libro" ],
+    "languageCode": "it"
+  }, {
+    "value": "fire hydrant",
+    "synonyms": [ "idrante" ],
+    "languageCode": "it"
+  }, {
+    "value": "umbrella",
+    "synonyms": [ "ombrello" ],
+    "languageCode": "it"
+  }, {
+    "value": "tie",
+    "synonyms": [ "cravatta" ],
+    "languageCode": "it"
+  }, {
+    "value": "suitcase",
+    "synonyms": [ "valigia" ],
+    "languageCode": "it"
+  }, {
+    "value": "apple",
+    "synonyms": [ "mela" ],
+    "languageCode": "it"
+  }, {
+    "value": "sandwich",
+    "synonyms": [ "panino", "sandwich", "tramezzino" ],
+    "languageCode": "it"
+  }, {
+    "value": "handbag",
+    "synonyms": [ "borsa", "borsetta" ],
+    "languageCode": "it"
+  }, {
+    "value": "chair",
+    "synonyms": [ "sedia", "seggiola" ],
+    "languageCode": "it"
+  }, {
+    "value": "couch",
+    "synonyms": [ "divano", "sofà" ],
+    "languageCode": "it"
+  }, {
+    "value": "potted plant",
+    "synonyms": [ "pianta", "pianta invasata" ],
+    "languageCode": "it"
+  }, {
+    "value": "bed",
+    "synonyms": [ "letto" ],
+    "languageCode": "it"
+  }, {
+    "value": "dining table",
+    "synonyms": [ "tavolo", "tavolo da pranzo" ],
+    "languageCode": "it"
+  }, {
+    "value": "toilette",
+    "synonyms": [ "gabinetto", "toilette", "wc" ],
+    "languageCode": "it"
+  }, {
+    "value": "tv",
+    "synonyms": [ "tele", "televisore", "tv" ],
+    "languageCode": "it"
+  }, {
+    "value": "mouse",
+    "synonyms": [ "mouse" ],
+    "languageCode": "it"
+  }, {
+    "value": "keyboard",
+    "synonyms": [ "tastiera" ],
+    "languageCode": "it"
+  }, {
+    "value": "clock",
+    "synonyms": [ "orologio" ],
+    "languageCode": "it"
+  }, {
+    "value": "vase",
+    "synonyms": [ "vaso" ],
+    "languageCode": "it"
+  }, {
+    "value": "backpack",
+    "synonyms": [ "cartella", "zainetto", "zaino" ],
+    "languageCode": "it"
+  }, {
+    "value": "laptop",
+    "synonyms": [ "computer", "laptop", "pc", "portatile" ],
+    "languageCode": "it"
+  }, {
+    "value": "scissors",
+    "synonyms": [ "forbici", "paio di forbici" ],
+    "languageCode": "it"
+  }, {
+    "value": "banana",
+    "synonyms": [ "banana" ],
+    "languageCode": "it"
+  } ]
+}

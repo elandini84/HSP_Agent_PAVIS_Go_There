@@ -1,0 +1,57 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Where is the object you are ",
+      "auto": true
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Where are you "
+    }, {
+      "text": "going ",
+      "parameterId": "go_verbsAskedVal"
+    }, {
+      "text": "to look",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Where do you have ",
+      "auto": true
+    }, {
+      "text": "to go",
+      "parameterId": "go_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Where are you "
+    }, {
+      "text": "going",
+      "parameterId": "go_verbsAskedVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

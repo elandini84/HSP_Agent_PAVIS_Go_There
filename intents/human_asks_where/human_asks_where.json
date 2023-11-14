@@ -1,0 +1,20 @@
+{
+  "name": "dba79dde-da9c-4b04-ad77-6e8fb32a0e62",
+  "displayName": "human_asks_where",
+  "parameters": [ {
+    "id": "go_verbsAskedVal",
+    "entityType": "@go_verbs_entity"
+  }, {
+    "id": "find_verbsAskedVal",
+    "entityType": "@find_verbs_entity"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "ask",
+    "value": "ask"
+  }, {
+    "key": "human",
+    "value": "human"
+  } ],
+  "numTrainingPhrases": 8
+}

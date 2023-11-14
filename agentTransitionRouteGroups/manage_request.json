@@ -1,0 +1,25 @@
+{
+  "name": "5a8c4ef4-b805-4ed1-a8f8-cd0e07edc11e",
+  "displayName": "manage_request",
+  "transitionRoutes": [ {
+    "intent": "human_says_goThere",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(go $session.params.destinationVal) (say \"Ok, I'm going to the $intent.params.destinationVal.original\")" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(go $session.params.destinationVal) (say \"Ok, vado in $intent.params.destinationVal.original\")" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "targetLocationVal_orig",
+        "value": "$intent.params.destinationVal.original"
+      } ]
+    },
+    "name": "70afe4f9-44f2-473c-86b3-25d7307a2218"
+  } ]
+}

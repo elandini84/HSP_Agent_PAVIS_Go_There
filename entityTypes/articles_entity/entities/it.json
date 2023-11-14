@@ -1,0 +1,11 @@
+{
+  "entities": [ {
+    "value": "definite",
+    "synonyms": [ "gli", "i", "il", "la", "le", "lo" ],
+    "languageCode": "it"
+  }, {
+    "value": "indefinite",
+    "synonyms": [ "degli", "dei", "delle", "un", "una", "uno" ],
+    "languageCode": "it"
+  } ]
+}

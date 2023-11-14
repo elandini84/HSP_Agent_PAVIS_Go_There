@@ -1,0 +1,13 @@
+{
+  "name": "9140a75a-a9ec-49a6-8f09-0b7556f3ac07",
+  "displayName": "human_says_restartTask",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 14
+}

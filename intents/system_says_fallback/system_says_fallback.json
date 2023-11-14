@@ -1,0 +1,16 @@
+{
+  "name": "134b069a-8fb2-48e4-a877-74b624a16689",
+  "displayName": "system_says_fallback",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

@@ -1,0 +1,115 @@
+{
+  "entities": [ {
+    "value": "cup",
+    "synonyms": [ "cup" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "cell phone",
+    "synonyms": [ "cell", "cell phone", "phone", "celly", "smartphone", "mobile phone" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "bottle",
+    "synonyms": [ "bottle", "water bottle" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "person",
+    "synonyms": [ "person" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "remote",
+    "synonyms": [ "remote", "remote control" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "book",
+    "synonyms": [ "book" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "fire hydrant",
+    "synonyms": [ "fire hydrant" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "umbrella",
+    "synonyms": [ "umbrella" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "tie",
+    "synonyms": [ "tie" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "suitcase",
+    "synonyms": [ "suitcase" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "apple",
+    "synonyms": [ "apple" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "sandwich",
+    "synonyms": [ "sandwich" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "handbag",
+    "synonyms": [ "handbag", "bag" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "chair",
+    "synonyms": [ "chair" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "couch",
+    "synonyms": [ "couch", "sofa" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "potted plant",
+    "synonyms": [ "potted plant", "plant" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "bed",
+    "synonyms": [ "bed" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "dining table",
+    "synonyms": [ "table", "dining table" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "toilette",
+    "synonyms": [ "toilette", "wc" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "tv",
+    "synonyms": [ "television", "television set", "tv" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "mouse",
+    "synonyms": [ "mouse" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "keyboard",
+    "synonyms": [ "keyboard" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "clock",
+    "synonyms": [ "clock" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "vase",
+    "synonyms": [ "vase" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "backpack",
+    "synonyms": [ "backpack" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "laptop",
+    "synonyms": [ "laptop" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "scissors",
+    "synonyms": [ "scissors", "pair of scissors" ],
+    "languageCode": "en-us"
+  }, {
+    "value": "banana",
+    "synonyms": [ "banana" ],
+    "languageCode": "en-us"
+  } ]
+}

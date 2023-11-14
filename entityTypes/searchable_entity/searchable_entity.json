@@ -1,0 +1,7 @@
+{
+  "name": "0695eba2-2774-4633-b84c-fc4189b222b5",
+  "displayName": "searchable_entity",
+  "kind": "KIND_MAP",
+  "autoExpansionMode": "AUTO_EXPANSION_MODE_DEFAULT",
+  "enableFuzzyExtraction": true
+}
