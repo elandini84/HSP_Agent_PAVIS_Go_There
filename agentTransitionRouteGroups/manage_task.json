@@ -4,7 +4,17 @@
   "transitionRoutes": [ {
     "intent": "human_says_stop",
     "triggerFulfillment": {
-
+      "messages": [ {
+        "text": {
+          "text": [ "(stop) (say \"Certo, fammi solo sapere quando ricominciare.\")", "(stop) (say \"Va bene, faccio una pausa. Dammi solo un segnale per continuare.\")", "(stop) (say \"Ok, per ora mi fermo. Dimmi solo quando sei pronto per procedere.\")", "(stop) (say \"Capito, mi fermo. Basta indicare quando riprendere.\")", "(stop) (say \"Nessun problema, smetto di parlare. Avvisami solo quando continuare.\")", "(stop) (say \"Va bene, metto in pausa il discorso. Dammi solo il via libera per ricominciare.\")", "(stop) (say \"Ok, smetto. Dimmi solo quando riprendere da dove avevamo interrotto.\")", "(stop) (say \"Va bene, mi fermo un attimo. Avvisami solo quando continuare.\")", "(stop) (say \"Capito, mi prendo una pausa. Basta indicare quando procedere.\")", "(stop) (say \"Certo, mi fermo qui. Fammi solo sapere quando andare avanti.\")" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(stop) (say \"Sure, just let me know when to start again.\")", "(stop) (say \"Alright, I'll pause. Just give me a signal to continue.\")", "(stop) (say \"Okay, I'll stop for now. Just tell me when you're ready to proceed.\")", "(stop) (say \"Understood, I'll halt. Just indicate when to resume.\")", "(stop) (say \"No problem, I'll stop speaking. Just inform me when to continue.\")", "(stop) (say \"Fine, I'll pause my talking. Just give me the green light to start again.\")", "(stop) (say \"Okay, I'll cease. Just tell me when to pick up where we left off.\")", "(stop) (say \"Alright, I'll stop for a moment. Just give me a heads-up when to continue.\")", "(stop) (say \"Got it, I'll take a break. Just indicate when to proceed.\")", "(stop) (say \"Sure thing, I'll pause here. Just let me know when to move forward.\")" ]
+        },
+        "languageCode": "en-us"
+      } ]
     },
     "name": "900b2632-1f60-4f68-a7f3-4300ae205df9"
   }, {
@@ -34,6 +44,17 @@
       }, {
         "parameter": "articlesval_orig",
         "value": ""
+      } ],
+      "messages": [ {
+        "text": {
+          "text": [ "(reset) (say \"Va bene, capisco. Tornerò al posto designato. Non esitate a chiedere se avete bisogno di assistenza.\")", "(reset) (say \"Okay ho capito. Sto tornando alla mia posizione. Sentiti libero di chiedere se hai bisogno di qualcosa.\")", "(reset) (say \"Capito, adesso torno al mio posto. Fammi sapere se hai bisogno di aiuto.\")", "(reset) (say \"Capito, torno nella mia area designata. Se hai bisogno di qualcosa, non esitare a chiedere.\")", "(reset) (say \"Certo, capisco. Tornerò al mio posto. Sentiti libero di chiedere se hai bisogno di qualcosa.\")", "(reset) (say \"Va bene, ho capito. Tornerò alla mia posizione. Se hai bisogno di qualcosa, fammi un fischio.\")", "(reset) (say \"Ok capisco. Tornerò al posto designato. Non esitate a chiedere se avete bisogno di assistenza.\")", "(reset) (say \"Roger, torno alla mia posizione. Se hai bisogno di qualcosa, sentiti libero di chiedere.\")", "(reset) (say \"Copialo, ho capito. Adesso tornerò al mio posto. Fammi sapere se hai bisogno di aiuto.\")", "(reset) (say \"Affermativo, lo capisco. Tornerò alla mia area designata. Se hai bisogno di qualcosa, chiedimelo e basta.\")" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(reset) (say \"Alright, I understand. I'll be returning to my designated spot. Don't hesitate to ask if you require any assistance.\")", "(reset) (say \"Okay, I got it. I'm heading back to my location. Feel free to ask if you require anything.\")", "(reset) (say \"Understood, I'll return to my spot now. Just let me know if you need any help.\")", "(reset) (say \"Gotcha, I'm going back to my designated area. If you need anything, don't hesitate to ask.\")", "(reset) (say \"Sure, I understand. I'll make my way back to my spot. Feel free to ask if you need anything at all.\")", "(reset) (say \"Alright, I got it. I'll be returning to my location. If you need anything, just give me a shout.\")", "(reset) (say \"Okay, I understand. I'll head back to my designated spot. Don't hesitate to ask if you require any assistance.\")", "(reset) (say \"Roger that, I'm going back to my location. If you need anything, feel free to ask.\")", "(reset) (say \"Copy that, I got it. I'll be heading back to my spot now. Let me know if you need any help.\")", "(reset) (say \"Affirmative, I understand. I'll make my way back to my designated area. If you require anything, just ask me.\")" ]
+        },
+        "languageCode": "en-us"
       } ]
     },
     "name": "1a92cff0-6d9c-4fc7-8436-4ed5eac78391"
@@ -42,9 +63,6 @@
     "triggerFulfillment": {
       "setParameterActions": [ {
         "parameter": "language",
-        "value": ""
-      }, {
-        "parameter": "find_verbsval",
         "value": ""
       }, {
         "parameter": "prepositionval",
@@ -62,13 +80,7 @@
         "parameter": "thereval",
         "value": ""
       }, {
-        "parameter": "searchableval",
-        "value": ""
-      }, {
         "parameter": "goVal",
-        "value": ""
-      }, {
-        "parameter": "searchableval_orig",
         "value": ""
       }, {
         "parameter": "destinationval",
@@ -77,11 +89,19 @@
         "parameter": "targetlocationval_orig",
         "value": ""
       }, {
-        "parameter": "searchableval_orig",
-        "value": ""
-      }, {
         "parameter": "articlesval_orig",
         "value": ""
+      } ],
+      "messages": [ {
+        "text": {
+          "text": [ "(reset) (say \"Va bene, capisco. Se hai bisogno di qualcosa, sentiti libero di chiedere.\")", "(reset) (say \"Okay ho capito. Non esitate a chiedere se avete bisogno di qualcosa.\")", "(reset) (say \"Capito, se hai bisogno di qualcosa, chiedimelo.\")", "(reset) (say \"Capito. Se hai bisogno di qualcosa, per favore fammi sapere.\")", "(reset) (say \"Certo, ho capito. Se hai bisogno di assistenza, non esitare a chiedere.\")", "(reset) (say \"D'accordo, capisco. Se hai bisogno di qualcosa, fammi un fischio.\")", "(reset) (say \"Ok ho capito. Se hai bisogno di aiuto, sentiti libero di chiedere.\")", "(reset) (say \"Roger. Se hai bisogno di qualcosa, fammelo sapere.\")", "(reset) (say \"Perfetto. Se hai bisogno di assistenza, non esitare a chiedere.\")", "(reset) (say \"Affermativo, ho capito. Se hai bisogno di qualcosa, non esitare a chiedere.\")" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(reset) (say \"Alright, I understand. If you require anything, feel free to ask.\")", "(reset) (say \"Okay, I got it. Don't hesitate to ask if you need anything.\")", "(reset) (say \"Understood, if you need anything, just ask me.\")", "(reset) (say \"Gotcha, I understand. If you need anything, please let me know.\")", "(reset) (say \"Sure, I got it. If you need any assistance, don't hesitate to ask.\")", "(reset) (say \"Alright, I understand. If you require anything, just give me a shout.\")", "(reset) (say \"Okay, I understand. If you need any help, feel free to ask.\")", "(reset) (say \"Roger that, I got it. If you require anything, just let me know.\")", "(reset) (say \"Copy that, I understand. If you need any assistance, don't hesitate to ask.\")", "(reset) (say \"Affirmative, I got it. If you require anything, please don't hesitate to ask.\")" ]
+        },
+        "languageCode": "en-us"
       } ]
     },
     "name": "99859b19-a20f-41a6-85e4-0ec26bf08e16"
