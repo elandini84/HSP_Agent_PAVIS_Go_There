@@ -4,12 +4,12 @@
   "timeZone": "Europe/Kaliningrad",
   "projectNumber": 522779747538,
   "speechToTextSettings": {
-  
+
   },
-  "startFlow": "language_selection_flow",
+  "startFlow": "central_flow",
   "advancedSettings": {
     "audioExportGcsDestination": {
-    
+
     },
     "speechSettings": {
       "endpointerSensitivity": 90,
@@ -18,22 +18,22 @@
       }
     },
     "playbackInterruptionSettings": {
-    
+
     },
     "loggingSettings": {
-    
+
     }
   },
   "speakerIdSettings": {
-  
+
   },
   "textToSpeechSettings": {
-  
+
   },
   "duplexSettings": {
-  
+
   },
   "answerFeedbackSettings": {
-  
+
   }
 }
