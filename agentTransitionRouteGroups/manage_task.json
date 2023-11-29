@@ -107,7 +107,7 @@
     "name": "99859b19-a20f-41a6-85e4-0ec26bf08e16"
   }, {
     "intent": "human_says_resume",
-    "condition": "$session.params.destinationVal = \"\" OR  $session.params.destinationVal != null",
+    "condition": "$session.params.destinationVal = \"\" OR  $session.params.destinationVal = null",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
