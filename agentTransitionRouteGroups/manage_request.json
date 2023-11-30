@@ -95,7 +95,6 @@
         "value": ""
       } ]
     },
-    "targetPage": "wait_completion_page",
     "name": "f5f31e27-c4a1-435b-afa9-e6d98efe2c10"
   }, {
     "intent": "human_says_findObject",
@@ -113,7 +112,6 @@
         "languageCode": "it"
       } ]
     },
-    "targetPage": "wait_completion_page",
     "name": "82918abc-d8d0-4e9d-bc4f-0ba6394d67e3"
   }, {
     "intent": "human_says_findObjectThere",
@@ -141,7 +139,6 @@
         "value": ""
       } ]
     },
-    "targetPage": "wait_completion_page",
     "name": "9d8c5297-d6c7-4b8e-ac15-8f9cf35c5a68"
   }, {
     "intent": "human_says_findObjectThere",
@@ -163,7 +160,6 @@
         "value": "$intent.params.thereVal.original"
       } ]
     },
-    "targetPage": "wait_completion_page",
     "name": "8d0291ab-aba5-47d6-a422-2792dab4dc4d"
   } ]
 }
