@@ -1,0 +1,17 @@
+{
+  "name": "dfc90190-3f20-44ee-a1f0-5b80c0976387",
+  "displayName": "human_sets_language",
+  "parameters": [ {
+    "id": "languageCode",
+    "entityType": "@languageCode"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "set",
+    "value": "set"
+  } ],
+  "numTrainingPhrases": 8
+}

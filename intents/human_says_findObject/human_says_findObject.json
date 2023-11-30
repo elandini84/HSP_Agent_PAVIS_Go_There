@@ -1,0 +1,29 @@
+{
+  "name": "6cadc232-0402-415d-b08c-6e74816cf726",
+  "displayName": "human_says_findObject",
+  "parameters": [ {
+    "id": "find_verbsVal",
+    "entityType": "@find_verbs_entity"
+  }, {
+    "id": "articlesVal",
+    "entityType": "@articles_entity"
+  }, {
+    "id": "searchableVal",
+    "entityType": "@searchable_entity"
+  }, {
+    "id": "possessive_pronomVal",
+    "entityType": "@possessive_pronom"
+  }, {
+    "id": "goVal",
+    "entityType": "@go_verbs_entity"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 120
+}

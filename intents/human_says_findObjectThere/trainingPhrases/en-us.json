@@ -1,0 +1,1203 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Wouldn't you be "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "notebook",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "jar",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? There should be some in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "watch",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? There should be one in the "
+    }, {
+      "text": "doorway",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "pair of scissors",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " for me? They should be in the "
+    }, {
+      "text": "living room",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "shoes",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? They should be in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "an",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "apple",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "doorway",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "fire hydrant",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "remote control",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "living room",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "water bottle",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for them in the "
+    }, {
+      "text": "hall",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "fire hydrant",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "chair",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "remote",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you look for it in the "
+    }, {
+      "text": "hall",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "hall",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "remote",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "chair",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in my "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "laptop",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "living room",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " me "
+    }, {
+      "text": "an",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "umbrella",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "laptop",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "umbrella",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "closet",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "phone",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bottle of water",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "keyboard",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "hall",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "keyboard",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? They should be in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bottle of water",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "phone",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "living room",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "laptop",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "wallet",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bag",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "walk-in closet",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? It should be in the "
+    }, {
+      "text": "hall",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bag",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "laundry",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "pair of scissors",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "potted plant",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "remote control",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "living room",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "water bottle",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "pantry",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " in the "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

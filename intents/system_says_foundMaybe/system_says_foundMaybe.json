@@ -1,0 +1,13 @@
+{
+  "name": "ab79c3ca-b5f1-45c6-801b-2c4d1d09db4c",
+  "displayName": "system_says_foundMaybe",
+  "priority": 500000,
+  "labels": [ {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

@@ -1,0 +1,32 @@
+{
+  "name": "e2548155-bb82-42dc-9ac6-7e84d4c94fca",
+  "displayName": "human_says_findObjectThere",
+  "parameters": [ {
+    "id": "find_verbsVal",
+    "entityType": "@find_verbs_entity"
+  }, {
+    "id": "articlesVal",
+    "entityType": "@articles_entity"
+  }, {
+    "id": "searchableVal",
+    "entityType": "@searchable_entity"
+  }, {
+    "id": "prepositionVal",
+    "entityType": "@preposition_entity"
+  }, {
+    "id": "thereVal",
+    "entityType": "@room_entity"
+  }, {
+    "id": "possessive_pronomVal",
+    "entityType": "@possessive_pronom"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 100
+}

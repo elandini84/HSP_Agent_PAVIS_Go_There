@@ -1,0 +1,13 @@
+{
+  "name": "c1261dc5-69ce-49ad-9510-3f11e5af043a",
+  "displayName": "human_says_no",
+  "priority": 500000,
+  "labels": [ {
+    "key": "human",
+    "value": "human"
+  }, {
+    "key": "say",
+    "value": "say"
+  } ],
+  "numTrainingPhrases": 8
+}

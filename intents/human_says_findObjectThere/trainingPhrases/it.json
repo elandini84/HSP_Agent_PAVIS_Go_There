@@ -1,0 +1,1706 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Mi "
+    }, {
+      "text": "cercheresti",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " mica "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "camera",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti mica "
+    }, {
+      "text": "cercarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sedia",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti mica "
+    }, {
+      "text": "cercarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi "
+    }, {
+      "text": "troveresti",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " mica "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "idrante",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? Dovrebbero essercene "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "orologio",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? Dovrebbe essercene "
+    }, {
+      "text": "uno",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti mica "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "delle",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbero essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "salotto",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " mica "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "valigia",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? Dovrebbero essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "camera",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "borsa",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bagno",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "cravatta",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "lo",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "zaino",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non trovo "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "telecomando",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "salotto",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "bottiglia",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non trovo "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non trovo "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "borsa",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bagno",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "sala",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non trovo "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mela",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mela",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sedia",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "vaso",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "nella",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cameretta",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "portatile",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "sala",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tazza",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "paio di forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "officina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "le",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mie",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "camera",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "divano",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "sala",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "zaino",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "nel",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ripostiglio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cameretta",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "telefono",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bagno",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "bottiglia d'acqua",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi se "
+    }, {
+      "text": "trovi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "le",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mie",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "le",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mie",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbero essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cameretta",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "bottiglia d'acqua",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "nello",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "telefono",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "salotto",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cellulare",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bagno",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "zaino",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "camera",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "libro",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": "sala",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "borsa",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "nella",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cabina armadio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti andare a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tazza",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "? Dovrebbe essere "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "ingresso",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "borsa",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "lavanderia",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "libro",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bagno",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tazza",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "nella",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cameretta",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "le",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mie",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "camera",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cucina",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "telecomando",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "salotto",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bottiglia",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "dispensa",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "valigia",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "in",
+      "parameterId": "prepositionVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "studio",
+      "parameterId": "thereVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

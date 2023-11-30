@@ -1,0 +1,32 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "italian",
+      "parameterId": "languageCode"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "english",
+      "parameterId": "languageCode"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "inglese",
+      "parameterId": "languageCode"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "italiano",
+      "parameterId": "languageCode",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

@@ -1,0 +1,1609 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mela",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non ",
+      "auto": true
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "divano",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non ",
+      "auto": true
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "telefono",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non ",
+      "auto": true
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "televisore",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sciarpa",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "cravatta",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "paio di forbici",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non ",
+      "auto": true
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non ",
+      "auto": true
+    }, {
+      "text": "trovo",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi ",
+      "auto": true
+    }, {
+      "text": "cercheresti",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " mica ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti mica ",
+      "auto": true
+    }, {
+      "text": "cercarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tv",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti mica ",
+      "auto": true
+    }, {
+      "text": "cercarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "taccuino",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi "
+    }, {
+      "text": "troveresti",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " mica "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "ombrello",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti ",
+      "auto": true
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "orologio",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti mica "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti ",
+      "auto": true
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " mica ",
+      "auto": true
+    }, {
+      "text": "le",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "valigia",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti "
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Mi potresti ",
+      "auto": true
+    }, {
+      "text": "trovare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "libro",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "telecomando",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "cravatta",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " l'"
+    }, {
+      "text": "ombrello",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "lo",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "zaino",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " l'"
+    }, {
+      "text": "accendino",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non trovo "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cravatta",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "le",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarla",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Non "
+    }, {
+      "text": "trovo"
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Potresti "
+    }, {
+      "text": "cercarlo",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti ",
+      "auto": true
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "cravatta",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "delle",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "forbici",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti ",
+      "auto": true
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tastiera",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti ",
+      "auto": true
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti ",
+      "auto": true
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "orologio",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti "
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "gabinetto",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Dovresti ",
+      "auto": true
+    }, {
+      "text": "trovarmi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "letto",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se trovi "
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "orologio",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se trovi "
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "bicchiere",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se ",
+      "auto": true
+    }, {
+      "text": "trovi",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "letto",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se ",
+      "auto": true
+    }, {
+      "text": "trovi",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "pianta",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se ",
+      "auto": true
+    }, {
+      "text": "trovi",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "un",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "divano",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se ",
+      "auto": true
+    }, {
+      "text": "trovi",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "telefono",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se ",
+      "auto": true
+    }, {
+      "text": "trovi",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "bottiglia d'acqua",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vedi",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " se ",
+      "auto": true
+    }, {
+      "text": "trovi",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "sedia",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti "
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a "
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sedia",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "bottiglia d'acqua",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "telefono",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "panino",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "una",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mela",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "libro",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "borsa",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Potresti ",
+      "auto": true
+    }, {
+      "text": "andare",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "cercare",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tazza",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "borsa",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "libro",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tazza",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tele",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "valigia",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "telecomando",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "la",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mia",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "cravatta",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cerca",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "il",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mio",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "ombrello",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

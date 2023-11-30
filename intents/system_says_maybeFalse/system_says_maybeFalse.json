@@ -1,0 +1,16 @@
+{
+  "name": "c88d1bbe-0f25-46cd-b2fb-0265fa4c7fc6",
+  "displayName": "system_says_maybeFalse",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

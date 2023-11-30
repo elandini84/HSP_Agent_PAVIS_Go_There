@@ -1,0 +1,59 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Dimmi cosa stai "
+    }, {
+      "text": "cercando",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Vorrei sapere cosa stai "
+    }, {
+      "text": "cercando",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Puoi dirmi cosa stai "
+    }, {
+      "text": "cercando",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Stai "
+    }, {
+      "text": "cercando",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": " qualcosa?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Cosa stai "
+    }, {
+      "text": "cercando",
+      "parameterId": "find_verbsAskedVal",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

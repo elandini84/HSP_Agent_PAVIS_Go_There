@@ -1,0 +1,10 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "object_found_maybe",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

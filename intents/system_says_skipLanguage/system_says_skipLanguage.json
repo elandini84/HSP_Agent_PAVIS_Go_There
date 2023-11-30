@@ -1,0 +1,13 @@
+{
+  "name": "7746529c-fcf2-472e-bd10-341d53d0907c",
+  "displayName": "system_says_skipLanguage",
+  "priority": 500000,
+  "labels": [ {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

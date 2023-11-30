@@ -1,0 +1,54 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "What are you "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsAskedVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Are you "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsAskedVal"
+    }, {
+      "text": " something?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me what you are "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsAskedVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I would like to know what you are "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsAskedVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Tell me what you are "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsAskedVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

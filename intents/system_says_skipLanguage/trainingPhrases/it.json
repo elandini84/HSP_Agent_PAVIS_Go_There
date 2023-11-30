@@ -1,0 +1,11 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "skip_language_"
+    }, {
+      "text": "set"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

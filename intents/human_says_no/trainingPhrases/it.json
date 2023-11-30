@@ -1,0 +1,37 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Negativo",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "Direi ",
+      "auto": true
+    }, {
+      "text": "di",
+      "auto": true
+    }, {
+      "text": " no",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No, grazie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  }, {
+    "parts": [ {
+      "text": "No",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "it"
+  } ]
+}

@@ -1,0 +1,1458 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I can't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "an",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "apple",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I can not ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "couch",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "phone",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "television set",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "fire hydrant",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "pair of scissor",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "keyboard",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Would you mind ",
+      "auto": true
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Would you mind ",
+      "auto": true
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "television set",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Would you mind",
+      "auto": true
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Wouldn't you be "
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": "an",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "umbrella",
+      "parameterId": "searchableVal"
+    }, {
+      "text": " for me?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "clock",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": " for me?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Would you mind"
+    }, {
+      "text": "looking for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go and ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "scissors",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "keyboard",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "remote",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " the"
+    }, {
+      "text": "umbrella",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "backpack",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Could you go and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't find "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    }, {
+      "text": ". Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "scissors",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I cant't "
+    }, {
+      "text": "find"
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": ". Could you "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " it?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "pair of scissors",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "keyboard",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "mouse",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "clock",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "toilette",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "You should ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " me ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "bed",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "clock",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "glass of wine",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Check",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " if you can find "
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "vase",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "potted plant",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "couch",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "cell phone",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "bottle of water",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "See if you can find",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "chair",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you "
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "chair",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "bottle",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "vase",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "sandwich",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "an",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "handbag",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you ",
+      "auto": true
+    }, {
+      "text": "go",
+      "parameterId": "goVal",
+      "auto": true
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "handbag",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "book",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "television set",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "suitcase",
+      "parameterId": "searchableVal"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the",
+      "parameterId": "articlesVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "remote",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Look for",
+      "parameterId": "find_verbsVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "my",
+      "parameterId": "possessive_pronomVal",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "umbrella",
+      "parameterId": "searchableVal",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

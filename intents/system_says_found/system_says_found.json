@@ -1,0 +1,16 @@
+{
+  "name": "b1f62256-fd29-456d-917d-34e661376995",
+  "displayName": "system_says_found",
+  "priority": 500000,
+  "labels": [ {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "success",
+    "value": "success"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}
