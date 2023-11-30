@@ -6,12 +6,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(go $session.params.destinationVal) (say \"Ok, I'm going to the $intent.params.destinationVal.original\")" ]
+          "text": [ "(go $session.params.destinationVal)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(go $session.params.destinationVal) (say \"Ok, vado in $intent.params.destinationVal.original\")" ]
+          "text": [ "(go $session.params.destinationVal)" ]
         },
         "languageCode": "it"
       } ],

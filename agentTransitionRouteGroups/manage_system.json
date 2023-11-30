@@ -34,12 +34,12 @@
       } ],
       "messages": [ {
         "text": {
-          "text": [ "(dialogReset) (say \"Reset completo. Ripartiamo dalla selezione della lingua\")", "(dialogReset) (say \"Sistema resettato. Entro breve si potrà ripartire dalla selezione della lingua\")" ]
+          "text": [ "(dialogReset)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(dialogReset) (say \"My system is going to reset now. We will go back to language selection\")", "(dialogReset) (say \"I am going through a complete reset. At the end of it you will need to set the language again\")" ]
+          "text": [ "(dialogReset)" ]
         },
         "languageCode": "en-us"
       } ]
