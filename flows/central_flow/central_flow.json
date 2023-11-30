@@ -49,12 +49,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"Non credo di aver sentito bene\")", "(say \"Puoi ripetere, per favore?)", "(say \"Deve esserci stato un problema... Non ho sentito nulla\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "en-us"
       } ]
@@ -66,17 +66,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"Rispondo piú volentieri ad un saluto\")", "(say \"Sarebbe buona educazione salutare\")", "(say \"Mi spiace, sono programmata in modo da necessitare un saluto come input iniziale\")" ]
+          "text": [ "(say \"Non credo di aver sentito bene\")", "(say \"Puoi ripetere, per favore?)", "(say \"Deve esserci stato un problema... Non ho sentito nulla\")" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(say \"I am more willing to respond to a greeting\")", "(say \"It would be good manners to say hello\")", "(say \"I am sorry but I need some form of greeting in order to start the conversation\")" ]
-        },
-        "languageCode": "en"
-      }, {
-        "text": {
-          "text": [ "(say \"I am more willing to respond to a greeting\")", "(say \"It would be good manners to say hello\")", "(say \"I am sorry but I need some form of greeting in order to start the conversation\")" ]
+          "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
         },
         "languageCode": "en-us"
       } ]
