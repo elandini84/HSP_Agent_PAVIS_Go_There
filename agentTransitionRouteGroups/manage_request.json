@@ -2,6 +2,57 @@
   "name": "5a8c4ef4-b805-4ed1-a8f8-cd0e07edc11e",
   "displayName": "manage_request",
   "transitionRoutes": [ {
+    "intent": "human_says_findObject",
+    "condition": "$intent.params.searchableVal.original != null AND $intent.params.articlesVal.original != null",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(search $session.params.searchableVal)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(search $session.params.searchableVal)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "searchableVal_orig",
+        "value": "$intent.params.searchableVal.original"
+      }, {
+        "parameter": "articlesval_orig",
+        "value": "$intent.params.articlesVal.original"
+      } ]
+    },
+    "name": "89e57226-05b2-4685-a5bb-1a91f8882e63"
+  }, {
+    "intent": "human_says_findObjectThere",
+    "condition": "$intent.params.searchableVal.original != null AND $intent.params.articlesVal.original != null",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(search $session.params.searchableVal $session.params.thereVal)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(search $session.params.searchableVal $session.params.thereVal)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "searchableVal_orig",
+        "value": "$intent.params.searchableVal.original"
+      }, {
+        "parameter": "articlesVal_orig",
+        "value": "$intent.params.articlesVal.original"
+      }, {
+        "parameter": "targetLocationVal_orig",
+        "value": "$intent.params.thereVal.original"
+      } ]
+    },
+    "name": "668eafaa-6739-4ad1-b2e7-73ab9b3ca311"
+  }, {
     "intent": "human_says_goThere",
     "triggerFulfillment": {
       "messages": [ {
@@ -21,5 +72,98 @@
       } ]
     },
     "name": "70afe4f9-44f2-473c-86b3-25d7307a2218"
+  }, {
+    "intent": "human_says_findObject",
+    "condition": "$intent.params.searchableVal.original != null AND $intent.params.articlesVal.original = null",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(search $session.params.searchableVal)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(search $session.params.searchableVal)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "searchableVal_orig",
+        "value": "$intent.params.searchableVal.original"
+      }, {
+        "parameter": "articlesval_orig",
+        "value": ""
+      } ]
+    },
+    "targetPage": "wait_completion_page",
+    "name": "f5f31e27-c4a1-435b-afa9-e6d98efe2c10"
+  }, {
+    "intent": "human_says_findObject",
+    "condition": "$intent.params.searchableVal.original = null",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(search $session.params.searchableVal)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(search $session.params.searchableVal)" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "targetPage": "wait_completion_page",
+    "name": "82918abc-d8d0-4e9d-bc4f-0ba6394d67e3"
+  }, {
+    "intent": "human_says_findObjectThere",
+    "condition": "$intent.params.searchableVal.original != null AND $intent.params.articlesVal.original = null",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(search $session.params.searchableVal $session.params.thereVal)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(search $session.params.searchableVal $session.params.thereVal)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "searchableVal_orig",
+        "value": "$intent.params.searchableVal.original"
+      }, {
+        "parameter": "targetLocationVal_orig",
+        "value": "$intent.params.thereVal.original"
+      }, {
+        "parameter": "articlesval_orig",
+        "value": ""
+      } ]
+    },
+    "targetPage": "wait_completion_page",
+    "name": "9d8c5297-d6c7-4b8e-ac15-8f9cf35c5a68"
+  }, {
+    "intent": "human_says_findObjectThere",
+    "condition": "$intent.params.searchableVal.original = null",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(search $session.params.searchableVal $session.params.thereVal)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(search $session.params.searchableVal $session.params.thereVal)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "targetLocationVal_orig",
+        "value": "$intent.params.thereVal.original"
+      } ]
+    },
+    "targetPage": "wait_completion_page",
+    "name": "8d0291ab-aba5-47d6-a422-2792dab4dc4d"
   } ]
 }

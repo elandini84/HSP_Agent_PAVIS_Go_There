@@ -19,6 +19,48 @@
     },
     "name": "9bea532b-0aac-4c3a-935b-8089cc8ef036"
   }, {
+    "intent": "system_says_notFound",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "53c5cf11-4cfb-4e38-9cd0-3ffeda0bc7b0"
+  }, {
+    "intent": "system_says_found",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "searchableVal",
+        "value": ""
+      }, {
+        "parameter": "thereVal",
+        "value": ""
+      }, {
+        "parameter": "destinationVal",
+        "value": ""
+      } ]
+    },
+    "name": "ffb8b021-28bd-4b4b-b91b-728283136cc4"
+  }, {
     "intent": "system_says_arrived",
     "triggerFulfillment": {
       "messages": [ {
@@ -44,6 +86,38 @@
       } ]
     },
     "name": "bc16541f-2b8f-44fe-9ea2-0b5c59ca9feb"
+  }, {
+    "intent": "system_says_foundMaybe",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "6123216a-ed14-4c2e-85ff-8bb25c83b222"
+  }, {
+    "intent": "system_says_maybeFalse",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      } ]
+    },
+    "name": "5cc04ae0-2476-4c6e-8f45-c7359d41486a"
   }, {
     "intent": "system_says_navigationFailed",
     "triggerFulfillment": {

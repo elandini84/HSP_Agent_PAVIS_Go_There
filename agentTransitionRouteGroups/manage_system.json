@@ -8,11 +8,17 @@
         "parameter": "language",
         "value": ""
       }, {
+        "parameter": "find_verbsval",
+        "value": ""
+      }, {
         "parameter": "prepositionval",
         "value": ""
       }, {
         "parameter": "articlesval",
         "value": ""
+      }, {
+        "parameter": "goBack",
+        "value": false
       }, {
         "parameter": "resetSystem",
         "value": true
@@ -20,13 +26,22 @@
         "parameter": "thereval",
         "value": ""
       }, {
+        "parameter": "searchableval",
+        "value": ""
+      }, {
         "parameter": "goVal",
+        "value": ""
+      }, {
+        "parameter": "searchableval_orig",
         "value": ""
       }, {
         "parameter": "destinationval",
         "value": ""
       }, {
         "parameter": "targetlocationval_orig",
+        "value": ""
+      }, {
+        "parameter": "searchableval_orig",
         "value": ""
       }, {
         "parameter": "articlesval_orig",
