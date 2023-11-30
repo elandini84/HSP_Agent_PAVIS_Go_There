@@ -3,33 +3,31 @@
   "displayName": "manage_questions",
   "transitionRoutes": [ {
     "intent": "human_asks_where",
-    "condition": "$session.params.thereVal != \"\" OR $session.params.destinationVal != \"\"",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"I am going to the $session.params.targetLocationVal_orig\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(say \"Sto andando in $session.params.targetLocationVal_orig\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       } ]
     },
     "name": "bc92297e-3c82-4043-83a1-e8d6e2045f5b"
   }, {
-    "intent": "human_asks_where",
-    "condition": "$session.params.thereVal = \"\" AND $session.params.destinationVal = \"\"",
+    "intent": "human_asks_what",
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"I am not going anywhere\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(say \"Non sto andando da nessuna parte\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       } ]
