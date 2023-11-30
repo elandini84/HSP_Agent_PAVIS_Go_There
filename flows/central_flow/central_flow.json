@@ -18,6 +18,49 @@
       } ]
     },
     "name": "9bea532b-0aac-4c3a-935b-8089cc8ef036"
+  }, {
+    "intent": "system_says_arrived",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      } ],
+      "setParameterActions": [ {
+        "parameter": "destinationVal",
+        "value": ""
+      }, {
+        "parameter": "thereVal",
+        "value": ""
+      }, {
+        "parameter": "searchableVal",
+        "value": ""
+      } ]
+    },
+    "name": "bc16541f-2b8f-44fe-9ea2-0b5c59ca9feb"
+  }, {
+    "intent": "system_says_navigationFailed",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(say \"Non credo di aver sentito bene\")", "(say \"Puoi ripetere, per favore?)", "(say \"Deve esserci stato un problema... Non ho sentito nulla\")" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "targetPage": "wait_request_page",
+    "name": "9c01540a-8fbe-4c66-8a06-ba7dc76b6d8e"
   } ],
   "eventHandlers": [ {
     "event": "sys.no-match-default",
