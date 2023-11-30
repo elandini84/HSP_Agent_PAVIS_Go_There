@@ -4,11 +4,11 @@
     "synonyms": [ "cucina" ],
     "languageCode": "it"
   }, {
-    "value": "sofa area",
+    "value": "sofa_area",
     "synonyms": [ "area divanetti" ],
     "languageCode": "en-us"
   }, {
-    "value": "sensorized room",
+    "value": "sensorized_room",
     "synonyms": [ "stanza sensorizzata" ],
     "languageCode": "en-us"
   }, {
