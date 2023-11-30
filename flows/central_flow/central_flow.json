@@ -148,6 +148,11 @@
           "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
         },
         "languageCode": "en-us"
+      }, {
+        "text": {
+          "text": [ "(say \"I didn't get that. Can you say it again?\")", "(say \"I missed what you said. What was that?\")", "(say \"Sorry, could you say that again?\")", "(say \"Sorry, can you say that again?\")", "(say \"Can you say that again?\")", "(say \"Sorry, I didn't get that. Can you rephrase?\")", "(say \"Sorry, what was that?\")", "(say \"One more time?\")", "(say \"What was that?\")", "(say \"Say that one more time?\")", "(say \"I didn't get that. Can you repeat?\")", "(say \"I missed that, say that again?\")" ]
+        },
+        "languageCode": "en"
       } ]
     },
     "name": "0fc2c255-1a23-4888-a8c8-7bcf9d03a195"
