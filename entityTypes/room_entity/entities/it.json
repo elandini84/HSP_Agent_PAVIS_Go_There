@@ -35,5 +35,9 @@
     "value": "study",
     "synonyms": [ "studio" ],
     "languageCode": "it"
+  }, {
+    "value": "tv",
+    "synonyms": [ "tv",  "televisione" ],
+    "languageCode": "it"
   } ]
 }
