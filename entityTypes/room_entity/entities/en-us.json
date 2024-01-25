@@ -5,11 +5,11 @@
     "languageCode": "en-us"
   }, {
     "value": "laboratory",
-    "synonyms": [ "laboratorio", "stanza sensorizzata", "lab" ],
+    "synonyms": [ "laboratory", "sensorized room", "lab" ],
     "languageCode": "it"
   }, {
     "value": "sofa_area",
-    "synonyms": [ "area sofá", "area divanetti" ],
+    "synonyms": [ "sofa_area", "sofa area" ],
     "languageCode": "it"
   }, {
     "value": "bedroom",
