@@ -7,12 +7,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"Hey, what can I do for you?\")", "(say \"Good morning, how may I assist you?\")", "(say \"Hi there, how can I be of service?\")", "(say \"Greetings, what brings you here?\")", "(say \"Yo, how can I help you out?\")", "(say \"Hello, what can I do for you today?\")", "(say \"Hey, what's up? How can I help?\")", "(say \"Hi, how may I assist you today?\")", "(say \"Good afternoon, what can I help you with?\")", "(say \"Hey there, what do you need help with?\")", "(say \"Hello, how can I be of assistance?\")", "(say \"Hi, what brings you to me today?\")", "(say \"Greetings, how can I assist you today?\")", "(say \"Hey, what can I do for you on this fine day?\")", "(say \"Hi there, what can I help you with today?\")", "(say \"Hello, how can I help you out?\")", "(say \"Hey, how may I assist you?\")", "(say \"Hi, what can I do for you right now?\")", "(say \"Greetings, what brings you to me today?\")", "(say \"Hey there, how can I help you today?\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(say \"Ehi, cosa posso fare per te?\")", "(say \"Buongiorno, come posso assisterla?\")", "(say \"Salve, come posso essere utile?\")", "(say \"Saluti, cosa ti porta qui?\")", "(say \"Yo, come posso aiutarti?\")", "(say \"Ciao, cosa posso fare per te oggi?\")", "(say \"Ehi, che succede? Come posso aiutare?\")", "(say \"Ciao, come posso aiutarti oggi?\")", "(say \"Buon pomeriggio, in cosa posso aiutarvi?\")", "(say \"Ehi, con cosa hai bisogno di aiuto?\")", "(say \"Ciao, come posso esserti d'aiuto?\")", "(say \"Ciao, cosa ti porta da me oggi?\")", "(say \"Saluti, come posso assistervi oggi?\")", "(say \"Ehi, cosa posso fare per te in questa bella giornata?\")", "(say \"Ciao, in cosa posso aiutarti oggi?\")", "(say \"Ciao, come posso aiutarti?\")", "(say \"Ehi, come posso aiutarti?\")", "(say \"Ciao, cosa posso fare per te in questo momento?\")", "(say \"Saluti, cosa ti porta da me oggi?\")", "(say \"Ehi, come posso aiutarti oggi?\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       } ]
@@ -140,17 +140,17 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(cmd_unk) (say \"Non credo di aver sentito bene\")", "(cmd_unk) (say \"Puoi ripetere, per favore?)", "(cmd_unk) (say \"Deve esserci stato un problema... Non ho sentito nulla\")" ]
+          "text": [ "(cmd_unk)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(cmd_unk) (say \"I didn't get that. Can you say it again?\")", "(cmd_unk) (say \"I missed what you said. What was that?\")", "(cmd_unk) (say \"Sorry, could you say that again?\")", "(cmd_unk) (say \"Sorry, can you say that again?\")", "(cmd_unk) (say \"Can you say that again?\")", "(cmd_unk) (say \"Sorry, I didn't get that. Can you rephrase?\")", "(cmd_unk) (say \"Sorry, what was that?\")", "(cmd_unk) (say \"One more time?\")", "(cmd_unk) (say \"What was that?\")", "(cmd_unk) (say \"Say that one more time?\")", "(cmd_unk) (say \"I didn't get that. Can you repeat?\")", "(cmd_unk) (say \"I missed that, say that again?\")" ]
+          "text": [ "(cmd_unk)" ]
         },
         "languageCode": "en-us"
       }, {
         "text": {
-          "text": [ "(cmd_unk) (say \"I didn't get that. Can you say it again?\")", "(cmd_unk) (say \"I missed what you said. What was that?\")", "(cmd_unk) (say \"Sorry, could you say that again?\")", "(cmd_unk) (say \"Sorry, can you say that again?\")", "(cmd_unk) (say \"Can you say that again?\")", "(cmd_unk) (say \"Sorry, I didn't get that. Can you rephrase?\")", "(cmd_unk) (say \"Sorry, what was that?\")", "(cmd_unk) (say \"One more time?\")", "(cmd_unk) (say \"What was that?\")", "(cmd_unk) (say \"Say that one more time?\")", "(cmd_unk) (say \"I didn't get that. Can you repeat?\")", "(cmd_unk) (say \"I missed that, say that again?\")" ]
+          "text": [ "(cmd_unk)" ]
         },
         "languageCode": "en"
       } ]
@@ -161,17 +161,17 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(cmd_unk) (say \"Non credo di aver sentito bene\")", "(cmd_unk) (say \"Puoi ripetere, per favore?)", "(cmd_unk) (say \"Deve esserci stato un problema... Non ho sentito nulla\")" ]
+          "text": [ "(cmd_unk)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(cmd_unk) (say \"I didn't get that. Can you say it again?\")", "(cmd_unk) (say \"I missed what you said. What was that?\")", "(cmd_unk) (say \"Sorry, could you say that again?\")", "(cmd_unk) (say \"Sorry, can you say that again?\")", "(cmd_unk) (say \"Can you say that again?\")", "(cmd_unk) (say \"Sorry, I didn't get that. Can you rephrase?\")", "(cmd_unk) (say \"Sorry, what was that?\")", "(cmd_unk) (say \"One more time?\")", "(cmd_unk) (say \"What was that?\")", "(cmd_unk) (say \"Say that one more time?\")", "(cmd_unk) (say \"I didn't get that. Can you repeat?\")", "(cmd_unk) (say \"I missed that, say that again?\")" ]
+          "text": [ "(cmd_unk)" ]
         },
         "languageCode": "en"
       }, {
         "text": {
-          "text": [ "(cmd_unk) (say \"I didn't get that. Can you say it again?\")", "(cmd_unk) (say \"I missed what you said. What was that?\")", "(cmd_unk) (say \"Sorry, could you say that again?\")", "(cmd_unk) (say \"Sorry, can you say that again?\")", "(cmd_unk) (say \"Can you say that again?\")", "(cmd_unk) (say \"Sorry, I didn't get that. Can you rephrase?\")", "(cmd_unk) (say \"Sorry, what was that?\")", "(cmd_unk) (say \"One more time?\")", "(cmd_unk) (say \"What was that?\")", "(cmd_unk) (say \"Say that one more time?\")", "(cmd_unk) (say \"I didn't get that. Can you repeat?\")", "(cmd_unk) (say \"I missed that, say that again?\")" ]
+          "text": [ "(cmd_unk)" ]
         },
         "languageCode": "en-us"
       } ]
