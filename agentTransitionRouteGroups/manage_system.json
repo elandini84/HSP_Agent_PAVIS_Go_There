@@ -65,12 +65,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"Rilevato errore. Per favore attendere\")", "(say \"Ho riscontrato un errore grave. Mi spiace, ma devo chiederti di aspettare\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(say \"Error detected. Please wait\")", "(say \"I am experiencing some problems. Please wait\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "en-us"
       } ]
@@ -81,12 +81,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"Il comando non è stato riconosciuto. Potresti ripetere?\")", "(say \"Credo di non aver capito cosa tu voglia che faccia. Puoi ripetere?\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(say \"Unknown command. Please repeat\")", "(say \"I cannot recognize the command you just sent me. Can you repeat, please?\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "en-us"
       } ]
@@ -97,12 +97,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "(say \"Sto riscontrando un problema hardware al momento e ti chiedo gentilmente di attendere mentre lo risolvo. Grazie per la pazienza.\")", "(say \"Mi scuso, ma sembra che ci sia un guasto hardware che influisce sulle mie prestazioni. Per favore abbi pazienza mentre risolvo questo problema.\")", "(say \"Sto attualmente riscontrando un malfunzionamento dell'hardware. Apprezzerei la tua comprensione mentre lavoro per risolverlo. Per favore aspetta un momento.\")", "(say \"A causa di un guasto hardware, non sto funzionando in modo ottimale. Chiedo la vostra pazienza mentre correggo il problema. Grazie per l'attesa.\")", "(say \"Sto riscontrando un problema hardware che sta influenzando le mie operazioni. Vorrei chiedervi pazienza mentre cerco di risolverlo. Attendere prego.\")", "(say \"Ci scusiamo per l'inconveniente, ma ho a che fare con un guasto hardware. La vostra comprensione e un momento di attesa sarebbero molto apprezzati.\")", "(say \"Mi scuso per l'interruzione, ma si è verificato un problema hardware. Aspetta un momento mentre cerco di risolverlo.\")", "(say \"Sto attualmente riscontrando un guasto hardware che sta influenzando le mie prestazioni. Chiedo la vostra pazienza mentre risolvo questo problema. Attendere prego.\")", "(say \"Si è verificato un malfunzionamento hardware che influisce sul mio funzionamento. Apprezziamo molto la tua pazienza mentre lavoro per risolvere il problema. Attendi.\")", "(say \"Sono spiacente di informarvi che un guasto hardware sta impedendo il mio funzionamento. Chiedo gentilmente la vostra pazienza mentre cerco di risolverlo. Per favore aspettate un momento.\")" ]
+          "text": [ "(no_command)" ]
         },
         "languageCode": "it"
       }, {
         "text": {
-          "text": [ "(say \"I'm encountering a hardware issue at the moment, and I kindly ask you to wait while I resolve it. Thank you for your patience.\")", "(say \"Apologies, but there seems to be a hardware fault affecting my performance. Please bear with me while I address this issue.\")", "(say \"I'm currently experiencing a hardware malfunction. I'd appreciate your understanding as I work to fix it. Please wait a moment.\")", "(say \"Due to a hardware fault, I'm not functioning optimally. I request your patience while I rectify the problem. Thank you for waiting.\")", "(say \"I'm encountering a hardware problem that's affecting my operations. I'd like to ask for your patience as I attempt to resolve it. Please wait.\")", "(say \"Sorry for the inconvenience, but I'm dealing with a hardware fault. Your understanding and a moment of waiting would be greatly appreciated.\")", "(say \"I apologize for the interruption, but a hardware issue has arisen. Kindly wait a moment while I attempt to rectify it.\")", "(say \"I'm currently experiencing a hardware fault that's impacting my performance. I ask for your patience as I address this issue. Please wait.\")", "(say \"There's a hardware malfunction affecting my functioning. Your patience is greatly appreciated while I work to resolve the problem. Please wait.\")", "(say \"I regret to inform you that a hardware fault is impeding my operation. I kindly request your patience as I attempt to fix it. Please wait for a moment.\")"]
+          "text": [ "(no_command)"]
         },
         "languageCode": "en-us"
       } ]
