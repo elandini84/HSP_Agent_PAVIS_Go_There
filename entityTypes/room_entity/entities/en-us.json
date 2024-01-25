@@ -4,13 +4,13 @@
     "synonyms": [ "kitchen" ],
     "languageCode": "en-us"
   }, {
-    "value": "sofa_area",
-    "synonyms": [ "sofa area" ],
-    "languageCode": "en-us"
+    "value": "laboratory",
+    "synonyms": [ "laboratorio", "stanza sensorizzata", "lab" ],
+    "languageCode": "it"
   }, {
-    "value": "sensorized_room",
-    "synonyms": [ "sensorized room" ],
-    "languageCode": "en-us"
+    "value": "sofa_area",
+    "synonyms": [ "area sofá", "area divanetti" ],
+    "languageCode": "it"
   }, {
     "value": "bedroom",
     "synonyms": [ "bedroom" ],
