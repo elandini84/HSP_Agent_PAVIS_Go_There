@@ -1,6 +1,474 @@
 {
   "trainingPhrases": [ {
     "parts": [ {
+      "text": "Could you please move to the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "laptop",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to go to the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you please go to the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "search",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " for "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I would like you to move to the "
+    }, {
+      "text": "laboratory",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go to the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "backpack",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to go to the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "search",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " for "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bottle",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you please go to the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "laptop",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Please move to the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you go to the "
+    }, {
+      "text": "laboratory",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "search",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " for "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I would like you to go to the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you please move to the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "backpack",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to go to the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "search",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " for "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bottle",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you go to the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "laptop",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Please move to the "
+    }, {
+      "text": "laboratory",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "cup",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Could you go to the "
+    }, {
+      "text": "kitchen",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "search",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " for "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "banana",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I would like you to go to the "
+    }, {
+      "text": "bedroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "find",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "tie",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "Can you please move to the "
+    }, {
+      "text": "study",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "look for",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "backpack",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
+      "text": "I need you to go to the "
+    }, {
+      "text": "bathroom",
+      "parameterId": "thereVal"
+    }, {
+      "text": " and "
+    }, {
+      "text": "search",
+      "parameterId": "find_verbsVal"
+    }, {
+      "text": " for "
+    }, {
+      "text": "a",
+      "parameterId": "articlesVal"
+    }, {
+      "text": " "
+    }, {
+      "text": "bottle",
+      "parameterId": "searchableVal"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "parts": [ {
       "text": "Wouldn't you be "
     }, {
       "text": "looking for",
