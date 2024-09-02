@@ -1,0 +1,16 @@
+{
+  "name": "ff219d06-2c94-486e-bb71-f1ad3f8e1723",
+  "displayName": "system_says_location_not",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}
