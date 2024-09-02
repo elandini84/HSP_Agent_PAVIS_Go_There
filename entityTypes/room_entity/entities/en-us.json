@@ -5,12 +5,16 @@
     "languageCode": "en-us"
   }, {
     "value": "laboratory",
-    "synonyms": [ "laboratory", "sensorized room", "lab" ],
-    "languageCode": "it"
+    "synonyms": [ "laboratory", "sensorized room", "lab", "laboratory area", "laboratory_area" ],
+    "languageCode": "en-us"
   }, {
     "value": "sofa_area",
     "synonyms": [ "sofa_area", "sofa area" ],
-    "languageCode": "it"
+    "languageCode": "en-us"
+  }, {
+    "value": "coffee_machines",
+    "synonyms": [ "coffee_machines", "coffee machines", "break area", "coffee area" ],
+    "languageCode": "en-us"
   }, {
     "value": "bedroom",
     "synonyms": [ "bedroom" ],
@@ -24,8 +28,8 @@
     "synonyms": [ "livingroom", "living room" ],
     "languageCode": "en-us"
   }, {
-    "value": "bathroom",
-    "synonyms": [ "bathroom" ],
+    "value": "corridor_bathrooms",
+    "synonyms": [ "bathroom", "corridor_bathrooms", "corridor bathrooms" ],
     "languageCode": "en-us"
   }, {
     "value": "doorway",

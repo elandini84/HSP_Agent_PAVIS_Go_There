@@ -5,11 +5,15 @@
     "languageCode": "it"
   }, {
     "value": "laboratory",
-    "synonyms": [ "laboratorio", "stanza sensorizzata", "lab" ],
+    "synonyms": [ "laboratorio", "stanza sensorizzata", "lab", "area del laboratorio" ],
     "languageCode": "it"
   }, {
     "value": "sofa_area",
     "synonyms": [ "area sofá", "area divanetti" ],
+    "languageCode": "it"
+  }, {
+    "value": "coffee_machines",
+    "synonyms": [ "macchinetta del caffé", "distributori", "area pausa", "area snack" ],
     "languageCode": "it"
   }, {
     "value": "bedroom",
@@ -24,8 +28,8 @@
     "synonyms": [ "sala", "salotto" ],
     "languageCode": "it"
   }, {
-    "value": "bathroom",
-    "synonyms": [ "bagno" ],
+    "value": "corridor_bathrooms",
+    "synonyms": [ "bagno", "bagni in corridoio", "toilettes" ],
     "languageCode": "it"
   }, {
     "value": "doorway",
