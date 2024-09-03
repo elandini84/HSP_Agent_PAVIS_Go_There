@@ -1,0 +1,16 @@
+{
+  "name": "9593426c-83f4-4478-9169-9f202fd9524f",
+  "displayName": "system_says_navpos_fail",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}

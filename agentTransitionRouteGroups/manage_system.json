@@ -77,6 +77,54 @@
     },
     "name": "9503e65b-368c-4368-ae90-69deb7dfd730"
   }, {
+    "intent": "system_says_gafi_idle",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "name": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78"
+  }, {
+    "intent": "system_says_navpos_fail",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "name": "abcd1234-ef56-7890-gh12-ijkl3456mnop"
+  }, {
+    "intent": "system_says_location_not",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "it"
+      }, {
+        "text": {
+          "text": [ "(no_command)" ]
+        },
+        "languageCode": "en-us"
+      } ]
+    },
+    "name": "d4e5f6a7-b8c9-0123-de45-f6789abc0123"
+  }, {
     "intent": "system_says_fallback",
     "triggerFulfillment": {
       "messages": [ {

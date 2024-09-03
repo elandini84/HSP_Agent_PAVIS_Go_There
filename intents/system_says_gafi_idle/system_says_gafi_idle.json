@@ -1,0 +1,16 @@
+{
+  "name": "d018dac0-94db-4167-b6ed-da824e16fd65",
+  "displayName": "system_says_gafi_idle",
+  "priority": 500000,
+  "labels": [ {
+    "key": "failure",
+    "value": "failure"
+  }, {
+    "key": "say",
+    "value": "say"
+  }, {
+    "key": "system",
+    "value": "system"
+  } ],
+  "numTrainingPhrases": 2
+}
